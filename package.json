@@ -1,0 +1,26 @@
+{
+  "name": "bank-challenge",
+  "version": "1.0.0",
+  "description": "This challenge helps you practice your OO design skills.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-zaragoza/bank-challenge.git"
+  },
+  "keywords": [],
+  "author": "Marta Zaragoza Hidalgo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-zaragoza/bank-challenge/issues"
+  },
+  "homepage": "https://github.com/m-zaragoza/bank-challenge#readme",
+  "devDependencies": {
+    "jasmine": "^4.2.1"
+  }
+}
